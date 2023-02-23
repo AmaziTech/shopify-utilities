@@ -1,0 +1,30 @@
+{
+  "name": "shopify-utilities",
+  "version": "1.0.0",
+  "description": "Các tiện ích nho nhỏ để làm việc với shopify hiệu quả hơn.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmaziTech/shopify-utilities.git"
+  },
+  "keywords": [
+    "shopify",
+    "product",
+    "upload"
+  ],
+  "author": "amaziTech",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AmaziTech/shopify-utilities/issues"
+  },
+  "homepage": "https://github.com/AmaziTech/shopify-utilities#readme",
+  "dependencies": {
+    "cli-progress": "^3.12.0",
+    "dotenv": "^16.0.3",
+    "image-to-base64": "^2.2.0",
+    "shopify-api-node": "^3.12.2"
+  }
+}
